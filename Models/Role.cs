@@ -7,6 +7,6 @@
         public string NameBn { get; set; }
         public string Description { get; set; }
         public string DescriptionBn { get; set; }
-        public bool IsActive { get; set; }
+        public int IsActive { get; set; }
     }
 }
