@@ -1,5 +1,6 @@
 ﻿namespace ResultProcessingSystem.Models
 {
+    // 1st Term, Second Term, Half Yearly, Yearly, Monthly Exams
     public class Exam
     {
         public int Id { get; set; }
