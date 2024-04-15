@@ -10,7 +10,7 @@
         public string MothersName { get; set; }
         public string MothersNameBn { get; set; }
         public int SessionId { get; set; }
-        public int ClassId { get; set; }
+        public int SectionId { get; set; }
         public int SubjectId { get; set; }
         public int RollNumber { get; set; }
         public int BatchId { get; set; }

@@ -5,7 +5,7 @@
         public int ExamExamSubjectId { get; set; }
         public ExamExamSubject ExamExamSubject { get; set; }
 
-        public int ExamSubjectMark { get; set; }
+        public int ExamSubjectMarkId { get; set; }
         public ExamSubjectMark ExamSubjectMark { get; set; }
     }
 }

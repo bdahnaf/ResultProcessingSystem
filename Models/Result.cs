@@ -1,5 +1,6 @@
 ﻿namespace ResultProcessingSystem.Models
 {
+    // This will store the actual marks based on the subject and the student id
     public class Result
     {
         public int Id { get; set; }

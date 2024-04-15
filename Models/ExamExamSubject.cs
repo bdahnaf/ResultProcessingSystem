@@ -1,5 +1,6 @@
 ﻿namespace ResultProcessingSystem.Models
 {
+    // To Establish Many-to-Many relationship between ExamExamSubject
     public class ExamExamSubject
     {
         public int ExamId { get; set; }
